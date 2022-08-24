@@ -45,3 +45,7 @@ const CryptoListItem = ({
 };
 
 export default CryptoListItem;
+
+// od -20 do 40 stepeni
+//kartica na sredini taba
+// my-weather-app
