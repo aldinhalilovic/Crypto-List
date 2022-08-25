@@ -1,0 +1,17 @@
+.weatherAlarm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35vw;
+    height: 50px;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+}
+
+.weatherAlarmNone{
+    background-color: yellow;
+    color: black;
+    width: 30px;
+    height: 40px;   
+}

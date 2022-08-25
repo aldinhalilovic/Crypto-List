@@ -1,0 +1,28 @@
+.weather-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 35vw;
+    height: 70vh;
+    background-color: red;
+}
+
+.degree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vh;
+    height: 30vh;
+    /* background-color: yellow; */
+    font-size: 100px;
+    padding-bottom: 40px;
+}
+
+.change-degree {
+    width: 20vw;
+    height: 40px;
+    background-color: green;
+    font-size: larger;
+    font-weight: 700;
+}
